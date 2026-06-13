@@ -58,11 +58,11 @@ Destroy all alien portals scattered across the map to stop enemy reinforcements,
 
 ### Gameplay Preview
 
-![Night Scene & Patrol](SharpShooter/media/night_scene.gif)
+![Night Scene & Patrol](SharpShooter/media/1.gif)
 
-![Terrain & Stealth](SharpShooter/media/stealth_terrain.gif)
+![Terrain & Stealth](SharpShooter/media/2.gif)
 
-![Weapons, Effects & Ammo](SharpShooter/media/weapon_effect_ammo.gif)
+![Weapons, Effects & Ammo](SharpShooter/media/3.gif)
 
 ![Core Gameplay](SharpShooter/media/core_gameplay.gif)
 
